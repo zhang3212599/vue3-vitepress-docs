@@ -1,1 +1,0 @@
-import{_ as t,c as e,o,e as a}from"./app.f11c81a9.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"itempublic/Style/own.md","lastUpdated":1678973342000}'),s={name:"itempublic/Style/own.md"},c=a("",5),_=[c];function n(i,d,r,l,p,h){return o(),e("div",null,_)}const m=t(s,[["render",n]]);export{x as __pageData,m as default};
